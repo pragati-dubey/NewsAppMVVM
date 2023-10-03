@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  NewsAppiOS
+
+  Created by Pragati RAWAT on 10/3/23.
+  
+*/
+
+
+"navigation.title" = "Top Heading";
+"error.view.text" = "Error in loading";
+"news.loading.error" = "No news found";
